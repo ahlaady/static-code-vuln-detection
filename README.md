@@ -39,6 +39,7 @@ https://drive.google.com/file/d/12IWKhmLhq7qn5B_iXgn5YerOQtkH-6RG/view?usp=shari
 
 
 ## Repository Structure
+<pre>
 .
 ├── data/
 │   └── data.txt                                        # Metadata / notes about dataset usage
@@ -64,6 +65,7 @@ https://drive.google.com/file/d/12IWKhmLhq7qn5B_iXgn5YerOQtkH-6RG/view?usp=shari
 │
 ├── .gitignore                                          # Ignore rules (dataset, cache, envs, etc.)
 └── README.md                                           # Project documentation (this file)
+</pre>
 
 
 # How to Run
