@@ -96,9 +96,10 @@ Then open files from the notebooks/ directory to explore model training, evaluat
 
 ## View Final Report
 The complete report is available in:
-    Final Report/
-    └── CSCI_667_Final_Project_Report_Ahlaad_Y.pdf
-
+<pre>
+Final Report/
+└── CSCI_667_Final_Project_Report_Ahlaad_Y.pdf
+</pre>pre>
 
 ## Future Work
 Future work includes, but isn't limited to: TF-IDF + Stacked LSTM, CodeBERT + LSTM, CodeBERT + SVM, CodeBERT + RF, adversarial robustness
