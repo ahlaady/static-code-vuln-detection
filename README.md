@@ -66,33 +66,33 @@ https://drive.google.com/file/d/12IWKhmLhq7qn5B_iXgn5YerOQtkH-6RG/view?usp=shari
 └── README.md                                           # Project documentation (this file)
 
 
-## How to Run
-# Clone the Repository:
+# How to Run
+## Clone the Repository:
     git clone https://github.com/ahlaady/static-code-vuln-detection.git
     cd static-code-vuln-detection
 
-# Set Up the Environment:
+## Set Up the Environment:
 It’s recommended to use a virtual environment (e.g., venv or conda):
 
-# Using venv:
+## Using venv:
     python -m venv venv
     source venv/bin/activate        # On Mac/Linux
     venv\Scripts\activate           # On Windows
 
-# Install dependencies
+## Install dependencies
 pip install -r requirements.txt
 
-# Add the Dataset
+## Add the Dataset
 Download the DiverseVul dataset (JSON format) and place it in the data/ directory:
     data/
     ├── data.txt
     └── diversevul_20230702.json            # Added dataset
 
-# Explore the Notebooks
+## Explore the Notebooks
     jupyter notebook
 Then open files from the notebooks/ directory to explore model training, evaluation, and visualizations.
 
-# View Final Report
+## View Final Report
 The complete report is available in:
     Final Report/
     └── CSCI_667_Final_Project_Report_Ahlaad_Y.pdf
